@@ -28,6 +28,8 @@ avascript\part1-question3.js:13:32)
     at internal/main/run_main_module.js:17:47
 
 The code returns an error because 'let' is block scope.
+	
+	
 5. What is printed by line 9? If the code returns an error,
 	explain why.
 
@@ -50,6 +52,8 @@ in.js:76:12)←[39m
 ←[90m    at internal/main/run_main_module.js:17:47←[39m
 
 The error message is generated because assignment to constant terminates the compilation early.
+	
+	
 6. What is printed by line 13? If the code returns an error,
 	explain why.
 C:\Users\ericf\Desktop\CSE 110\Lab 4\fa21-cse110-lab4\expose\javascript\part1-question5.js:7
