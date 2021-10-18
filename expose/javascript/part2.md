@@ -1,14 +1,15 @@
 1. What will happen at line 12 and why? If the code causes an error, 
 explain why. 
-3 will be output to the console. 
+
+3 will be output to the console. This is because i is incremented to the array's length, 3.
 
 2. What will happen at line 13 and why? If the code causes an error, 
 explain why.    
-150 will be output to the console.
+150 will be output to the console. This is 1/2 the last price, which is last stored when the function ends the iteration.
 
 3. What will happen at line 14 and why? If the code causes an error, 
 explain why.
-150 will be output to the console.
+150 will be output to the console. Loops to 300, halves it, rounding changes nothing as 100/100 = 1.
 
 4. What will this function return? Give a brief explanation why. 
 If the code causes an error, explain why. 
